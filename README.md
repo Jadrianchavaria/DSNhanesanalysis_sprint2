@@ -28,11 +28,11 @@ This project uses the NHANES data below:
 
 Sprint 3 – Modeling Early Metabolic Dysfunction
 
-- Added `modeling.py` to train three models:
+- Added modeling.py to train three models:
   - Logistic Regression
   - Random Forest
   - XGBoost
-- Uses `cleaned_data_safe.csv` from Sprint 2.
+- Uses cleaned_data_safe.csv from Sprint 2.
 - Outputs:
   - Baseline vs. model metrics (accuracy, precision, recall, AUC)
   - Feature importance plots for Random Forest and XGBoost
